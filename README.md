@@ -8,7 +8,7 @@ Effects of anchoring on baseline patient characteristics in patients vaccinated 
 - Study type: **Methods**
 - Tags: **-**
 - Study lead: ** Anna Ostropolets**
-- Study lead forums tag: **[[Lead tag]](https://forums.ohdsi.org/u/aostropolets)**
+- Study lead forums tag: **[[AO]](https://forums.ohdsi.org/u/aostropolets)**
 - Publications: **10.2196/33099**
 
 
